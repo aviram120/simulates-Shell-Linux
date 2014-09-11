@@ -33,9 +33,9 @@ For example:
 
 1. Press "ls" - all files that in the current folder will appear on the screen .
 
-2. Press "echo College of Engineering - Azrieli > os.example"- Created a file named "os.example" contains 
+2. Press "echo College of Engineering  > os.example"- Created a file named "os.example" contains 
 
-the text "College of Engineering - Azrieli".
+the text "College of Engineering ".
 
  The character ">" prints the output into a file.
 
